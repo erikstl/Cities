@@ -4,8 +4,5 @@ using System.Text;
 
 namespace Cities.Comparers
 {
-    class CompoundComparer : IComparer<City>
-    {
-        
-    }
+    
 }
